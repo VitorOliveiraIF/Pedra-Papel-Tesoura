@@ -89,8 +89,11 @@ function duelo(escolha, escolha_cpu){
             resultado = 1;
         }
 
-        return resultado;
+  
     }
+
+          return resultado;
+    
 }
 
 function mostrarImagemResultado(resultado) {
